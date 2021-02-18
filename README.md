@@ -1,2 +1,2 @@
 # AlgorithmsHW
-Python scripts for algorithms homeworks
+Python scripts for Algorithms 3100 homeworks
